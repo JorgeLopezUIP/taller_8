@@ -1,5 +1,6 @@
 Prueba de que funciona 
-![imagen](https://github.com/user-attachments/assets/91a75841-3fdd-41c6-ada7-10486c36e6d5) varios emails enviados a mi segundo correo desde el servidor local 
+![imagen](https://github.com/user-attachments/assets/69efb737-e1be-4480-9b3d-3f8f706d7091)
+ varios emails enviados a mi segundo correo desde el servidor local 
 
 Para instalar y usar Celery y Flask-Mail en un mismo proyecto, primero debes instalar ambos paquetes. Usa los siguientes comandos para instalar Celery y Flask-Mail:
 
